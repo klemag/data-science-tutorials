@@ -1,0 +1,4 @@
+scikit-learn==0.20
+pandas
+xgboost
+jupyter
